@@ -1,0 +1,38 @@
+Studienarbeit
+Allgemeines zur Abgabe
+Entwickeln einer webbasierten responsive App.
+Für die Gruppe muss ein Git Repository auf Github.com angelegt werden, in welches alle Dateien für die Abgabe der Studienarbeit eingestellt werden.
+
+Zur finalen Abgabe müssen mindestens folgende Elemente in dem Github-Repository zu finden sein:
+Datei README.md mit den vollständigen Namen und E-Mail Adressen der Gruppenmitglieder
+Ordner Konzept mit den Dateien von Teil 1 der Studienarbeit
+Ordner Code mit den Dateien von Teil 2 der Studienarbeit
+
+Teil 1: Konzept
+Im Konzept soll sich die Gruppe mit den folgenden Themen befassen und die Ergebnisse schriftlich niederlegen:
+Beschreibung
+Funktionsweise der Web-App. Beschreiben Sie hier bitte eine vollständige App mit allen geplanten Funktionen. Es ist hierbei unerheblich, ob die geplanten Features auch programmiert werden können.
+Welche Probleme werden damit gelöst? 
+Woher kam die Idee. 
+Welche Zielgruppe hat die Web-App
+Key Performance Indikatoren (KPIs)
+Überlegen Sie in der Gruppe 2 bis 3 KPIs mit denen Sie den Erfolg bzw der Misserfolg der App messen könnten.
+Wireframes
+Erstellen Sie von mindestens 3 Screens Wireframe-Grafiken
+Testing
+Führen Sie einen kleinen informellen Usablity-Test mit den von Ihnen erstellten Wireframes bei Freunden/Studienkollegen durch und dokumentieren Sie die gewonnen Erkenntnisse schriftlich
+A/B-Test
+Identifizieren Sie mögliche UX-Schwachpunkte in der Zukunft und überlegen Sie sich einen AB-Test (inkl. neuer Screens als Wireframe). Dokumentieren Sie, wie sich ein solcher UX-Bug in den KPIs erkennbar zeigen würde.
+
+Wenn die Anforderungen bis hier her erfüllt wurden, gilt die Studienarbeit als bestanden mit Note 4.
+Teil 2: Programmierung
+Programmieren Sie mindestens 3 der Screens aus Teil 1. Das Ergebnis muss vollständig bedienbar sein.
+
+Fügen Sie nun mit JavaScript, PHP und MySQL Funktionalität zu Ihrer App hinzu.
+Mindestanforderung hierbei ist mindestens eine Kommunikation mit einem PHP Script, welches Werte aus einer Datenbank liefert bzw Werte in eine Datenbank speichert.
+Hierzu muss eine sinnvolle Datenbankstruktur vorliegen.
+
+Die Struktur der Datenbank mit mindestens 3 Demo-Datensätzen muss als SQL-File (SQL-Dump) mit abgegeben werden.
+
+Teil 3: Präsentation
+Am Tag der Abgabe (9. Juni) soll die Gruppe die App und das Konzept kurz (max 5 Min) präsentieren. 
