@@ -1,0 +1,5 @@
+-Anzahl der Besucher 
+-Anzahl der Besucher, die einen Punkt eintragen
+-Anzahl der Besucher, die einen Punkt anklicken
+-Anzahl der Besucher im Vergleich zur Anzahl der Besucher, die auch mit der App interagieren(Punkt eintragen, anklicken oder eienn Kommentar hinterlassen)
+-Anzahl der eingetragenen Punkte

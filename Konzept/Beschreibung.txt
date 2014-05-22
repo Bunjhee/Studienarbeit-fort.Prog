@@ -1,0 +1,17 @@
+Outdoor Fittness APP:
+
+Funktionen:
+- Orte in Map Eintragen/Abrufen 
+- Bilder und Bewertungen hinzufügen
+- Route zu Zielobjekt planen
+
+Problemlösung:
+-Ständiges Suchen nach guten Strecken oder Plätzen um Outdoor zu trainieren
+
+Ideenfindung:
+-Da wir selber viel Sport treiben und gerne aktiv sind, 
+ sind wir auch ständig auf der Suche nach neuen guten Trainingsorten
+ 
+Zielgruppe:
+-Eigentlich keine Beschrenkungen nach oben oder unten
+

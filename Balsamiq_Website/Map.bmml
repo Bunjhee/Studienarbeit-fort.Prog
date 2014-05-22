@@ -1,0 +1,96 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1458" measuredH="726" mockupW="905" mockupH="647">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="553" y="79" w="905" h="647" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//Fitness-Outdoor.de/Map</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="983" y="151" w="341" h="49" measuredW="334" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Home%26bm%3BHome.bmml%26bm%3BHome.bmml%26bm%3BHome.bmml%2CContact%26bm%3BContact.bmml%26bm%3BContact.bmml%26bm%3BContact.bmml%2CFavorites%26bm%3BFavorites.bmml%26bm%3BFavorites.bmml%26bm%3BFavorites.bmml%2CSign_in%26bm%3BSign_in.bmml%26bm%3BSign_in.bmml%26bm%3BSign_in.bmml%2CLog_in%26bm%3BLog_in.bmml%26bm%3BLog_in.bmml%26bm%3BLog_in.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22430%2C72%2C489%2C121%22%20href%3D%22Home.bmml%22%20alt%3D%22Home%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22489%2C72%2C562%2C121%22%20href%3D%22Contact.bmml%22%20alt%3D%22Contact%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22562%2C72%2C641%2C121%22%20href%3D%22Favorites.bmml%22%20alt%3D%22Favorites%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22641%2C72%2C707%2C121%22%20href%3D%22Sign_in.bmml%22%20alt%3D%22Sign_in%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22707%2C72%2C769%2C121%22%20href%3D%22Log_in.bmml%22%20alt%3D%22Log_in%22%20id%3D%221%22/%3E</map>
+        <selectedIndex>-1</selectedIndex>
+        <text>Home%2C%20Contact%2C%20Favorites%2C%20Sign%20in%2C%20Log%20in</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="719" y="161" w="-1" h="-1" measuredW="249" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fitness%20Outdoor%20Points</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Arrow" x="553" y="651" w="905" h="10" measuredW="150" measuredH="100" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>0</curvature>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="983" y="666" w="-1" h="-1" measuredW="39" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Footer</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Map" x="568" y="289" w="625" h="355" measuredW="252" measuredH="222" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::SubTitle" x="568" y="215" w="-1" h="-1" measuredW="153" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20new%20Point</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="568" y="240" w="-1" h="-1" measuredW="545" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <state>up</state>
+        <text>Current%20Position%20%3A%20Lorem%20ipsum%20dolor%20sit%20amet%2C%20consetetur%20sadipscing%20elitr%2C%20sed%20diam%20nonumy%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::ComboBox" x="675" y="261" w="-1" h="-1" measuredW="111" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mountain%20bike</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::TextArea" x="567" y="261" w="100" h="24" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name%20of%20Point</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::TextArea" x="793" y="261" w="58" h="24" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Submit</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::TextArea" x="1205" y="293" w="172" h="71" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Recent%20Point</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::TextArea" x="1205" y="367" w="172" h="71" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Recent%20Point</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::TextArea" x="1205" y="441" w="172" h="71" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Recent%20Point</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::TextArea" x="1205" y="516" w="172" h="71" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Recent%20Point</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Arrow" x="553" y="191" w="905" h="10" measuredW="150" measuredH="100" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>0</curvature>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::ColorPicker" x="947" y="333" w="-1" h="-1" measuredW="26" measuredH="28" zOrder="16" locked="false" isInGroup="-1"/>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::ColorPicker" x="776" y="498" w="-1" h="-1" measuredW="26" measuredH="28" zOrder="17" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::ColorPicker" x="1128" y="578" w="-1" h="-1" measuredW="26" measuredH="28" zOrder="18" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

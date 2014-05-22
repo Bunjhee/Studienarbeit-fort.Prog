@@ -1,0 +1,76 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1102" measuredH="688" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="820" y="115" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::SubTitle" x="861" y="254" w="-1" h="-1" measuredW="205" measuredH="31" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Fitness%20Outdoor</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::HRule" x="847" y="242" w="230" h="-1" measuredW="100" measuredH="10" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::ComboBox" x="994" y="218" w="-1" h="-1" measuredW="73" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>English</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Icon" x="849" y="213" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Scribble_STA_frotProg%26bm%3BScribble_STA_frotProg.bmml%26bm%3BScribble_STA_frotProg.bmml%26bm%3BScribble_STA_frotProg.bmml</href>
+        <icon>JumpBackIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2229%2C98%2C61%2C130%22%20href%3D%22Scribble_STA_frotProg.bmml%22%20alt%3D%22Scribble_STA_frotProg%22%20id%3D%2234%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Icon" x="942" y="212" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Scribble_STA_frotProg_front%26bm%3BScribble_STA_frotProg_front.bmml%26bm%3BScribble_STA_frotProg_front.bmml%26bm%3BScribble_STA_frotProg_front.bmml</href>
+        <icon>HomeMobileIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22122%2C97%2C154%2C129%22%20href%3D%22Scribble_STA_frotProg_front.bmml%22%20alt%3D%22Scribble_STA_frotProg_front%22%20id%3D%2235%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Map" x="859" y="308" w="202" h="286" measuredW="252" measuredH="222" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::iPadPopover" x="869" y="322" w="185" h="173" measuredW="222" measuredH="187" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <popoverArrowSide>bottom</popoverArrowSide>
+        <text>%20%0ADownhill%20pass%0A%20%0ADescription%20...</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::HRule" x="869" y="365" w="183" h="-1" measuredW="100" measuredH="10" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Icon" x="958" y="453" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>StarIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Icon" x="983" y="453" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SpinningIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Icon" x="931" y="453" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>StarIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Icon" x="1007" y="453" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SpinningIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Icon" x="1031" y="453" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SpinningIcon%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::HRule" x="856" y="285" w="207" h="-1" measuredW="100" measuredH="10" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Icon" x="1030" y="330" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Scribble_STA_frotProg_edit%26bm%3BScribble_STA_frotProg_edit.bmml%26bm%3BScribble_STA_frotProg_edit.bmml%26bm%3BScribble_STA_frotProg_edit.bmml</href>
+        <icon>PencilIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22210%2C215%2C226%2C231%22%20href%3D%22Scribble_STA_frotProg_edit.bmml%22%20alt%3D%22Scribble_STA_frotProg_edit%22%20id%3D%2262%22/%3E</map>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

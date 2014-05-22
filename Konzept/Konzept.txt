@@ -1,8 +1,0 @@
-Outdoor Fittness APP:
-
-- Orte in Map Eintragen/Abrufen 
-- Bilder und Bewertungen hinzufügen
-- Route zu Zielobjekt planen
-
-
-
