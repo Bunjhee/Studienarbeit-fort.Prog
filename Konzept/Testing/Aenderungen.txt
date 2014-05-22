@@ -1,0 +1,8 @@
+Allgemein:
+-die Map wird in die obere Navigation mit aufgenommen, da sie nur über den Home screen erreichbar war.
+
+Contact:
+-Telefon Nummer wurde mit aufgenommen, für schnelleren Support.
+
+Map:
+- Kürzlich hinzugefügte Punkte wurden rechts neben der Karte mit hinzugefügt, um schnell andere Punkte kennen zu lernen.
