@@ -26,10 +26,11 @@
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="index.php">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><a href="contact.php">Contact</a></li>
-                <li><a href="signin.php">Sign In</a></li>
-                <li><a href="login.php">Log In</a></li>
+                <li><a href="#">Favorieten</a></li>
+                <li><a href="#">Sign In</a></li>
+                <li><a href="#">Log In</a></li>
                 
               </ul>
             </div>
@@ -39,3 +40,6 @@
       </div>
     </div>
 
+<?php
+include('includes/footer.php');
+?>

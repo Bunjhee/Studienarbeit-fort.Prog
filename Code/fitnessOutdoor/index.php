@@ -21,7 +21,7 @@
             <div class="carousel-caption">
               <h1>Mountain Bike tracks</h1>
               <p>All Tracks you need to know!</p>
-              <p><a class="btn btn-lg btn-primary" href="addPoint.php" role="button">Add Bike Tracks</a></p>
+              <p><a class="btn btn-lg btn-primary" href="addPoint.php" role="button">Add Place</a></p>
             </div>
           </div>
         </div>
@@ -31,7 +31,7 @@
             <div class="carousel-caption">
               <h1>Best Surfing places</h1>
               <p>Blue water and White beaches</p>
-              <p><a class="btn btn-lg btn-primary" href="addPoint.php" role="button">Add Surf Places</a></p>
+              <p><a class="btn btn-lg btn-primary" href="addPoint.php" role="button">Add Place</a></p>
             </div>
           </div>
         </div>
@@ -41,7 +41,7 @@
             <div class="carousel-caption">
               <h1>Drive with the Sun! Longboarding</h1>
               <p>The Best Longboarding Tracks for you!</p>
-              <p><a class="btn btn-lg btn-primary" href="addPoint.php" role="button">Add Longboard Places
+              <p><a class="btn btn-lg btn-primary" href="addPoint.php" role="button">Add Place
               </a></p>
             </div>
           </div>
@@ -89,7 +89,7 @@
           <p class="lead">Sign in Today and Add your Friends, to show them your best Places!</p>
         </div>
         <div class="col-md-5">
-          <img class="ima" src="img/TrackPSD.jpg" alt="Generic placeholder image">
+          <a href="addPoint.php"><img class="ima" src="img/TrackPSD.jpg" alt="Generic placeholder image"></a>
         </div>
       </div>
 

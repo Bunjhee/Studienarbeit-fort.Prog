@@ -30,7 +30,7 @@ include('includes/header.php');
     <div class="row">
         <div class="large-12 columns">
             <h1>Vielen Dank. Punkt eingetragen!</h1>
-            <a href="index.php" class="button">Zurück zur Karte</a>
+            <a href="addpoint.php" class="button">Zurück zur Karte</a>
         </div>
     </div>
 

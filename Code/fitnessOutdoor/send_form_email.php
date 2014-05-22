@@ -1,7 +1,5 @@
-<?php 
-include ("indluces/header.php");
 
-?>
+
 <?php
  
 if(isset($_POST['email'])) {
