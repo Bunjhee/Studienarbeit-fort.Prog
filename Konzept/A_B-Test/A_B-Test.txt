@@ -1,0 +1,9 @@
+Ux-Schwachpunkte:
+
+1.  Problem: Mit der Zeit werden sehr viele Marker auf der Karte sein, was dazu führt, dass es sehr unübersichtlich werden kann.
+	Lösung: Entweder eine Unterteilung der verschiedenen Sportarten mit einzelnen Maps machen, oder die Marker einfach kleiner werden lassen, um Übersichtlichkeit zu schaffen.
+	KPI: Anzahl der Besucher, die mit der App interagieren(Punkt anklicken oder einen Kommentar hinterlassen)
+
+2.  Problem: Möglicherweise gibt die Seite zu wenig Informationen auf dem Homescreen, um Benutzern schnell aufzuzeigen, was sie für Möglichkeiten haben. 	
+    Lösung: Headerbild kleiner machen und dafür mehr Text einblenden, oder größeren informelleren Text.
+	KPI: Anzahl der Besucher, die mit der App interagieren (Punkt eintragen)
