@@ -55,9 +55,9 @@ function displayPoints(points) {
             parseFloat(points[i].lng)
         );
 
-        var iconPath = 'img/public.png';
+        var iconPath = 'img/surfing.png';
         if (points[i].public == 0) {
-            iconPath = 'img/private.png';
+            iconPath = 'img/bike_rising.png';
         }
 
         var marker = new google.maps.Marker({

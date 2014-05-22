@@ -4,18 +4,18 @@ include("includes/header.php");
 
     <div class="addpointcontent">
         <div class="large-12 columns">
-            <h1>Neuen Punkt hinzufügen</h1>
+            <h1>Add your Point!</h1>
         </div>
     </div>
 
     <div class="addpointcontent">
         <div>
 
-            <p>Es wird deine aktuelle Position als neuer Punkt eingefügt:</p>
+            <p>Your current position will be added as a Point.</p>
 
-            <p>Die Adresse an deiner Position ist:
+            <p>Your current position:
                 <strong id="geocodedAddress">
-                    Adresse wird ermittelt...
+                    Searching for your position:
                 </strong>
             </p>
 
@@ -44,6 +44,7 @@ include("includes/header.php");
            <div id="map">
         Es gab anscheinend ein Problem beim Laden der Karten...
     </div>
+    <img class="favo" src="img/ranking.jpg">
     <script src="js/loadmap.js"></script>
 
         </div>

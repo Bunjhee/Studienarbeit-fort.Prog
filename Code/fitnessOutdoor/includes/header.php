@@ -28,7 +28,8 @@
               <ul class="nav navbar-nav">
                 <li><a href="index.php">Home</a></li>
                 <li><a href="contact.php">Contact</a></li>
-                <li><a href="#">Favorieten</a></li>
+                <li><a href="#">Favorites</a></li>
+                <li><a href="addpoint.php">Map</a></li>
                 <li><a href="#">Sign In</a></li>
                 <li><a href="#">Log In</a></li>
                 

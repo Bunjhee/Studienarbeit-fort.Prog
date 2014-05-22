@@ -18,11 +18,15 @@ if (isset($_GET['id'])) {
 
 ?>
 
-    <div class="row">
-        <div class="large-12 columns">
+    	<div class="submitgrp">
             <h1><?= htmlentities($data['name']); ?></h1>
-        </div>
-    </div>
+            Add some details to this point!
+            <input  type="text" name="first_name"  size="50" height="300"><a href="addpoint.php"><input type="submit" value="Add"></a>
+            </div>
+            <div class="submitgrp">
+          <a href="addpoint.php">Back to the map</a>
+            </div>
+     
 
 <?php
 include('includes/footer.php');
