@@ -1,4 +1,13 @@
-SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
+-- phpMyAdmin SQL Dump
+-- version 4.1.12
+-- http://www.phpmyadmin.net
+--
+-- Host: 127.0.0.1
+-- Erstellungszeit: 23. Mai 2014 um 00:27
+-- Server Version: 5.6.16
+-- PHP-Version: 5.5.11
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
 
@@ -8,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Datenbank: `simplegeo`
+-- Datenbank: `swfach`
 --
 
 -- --------------------------------------------------------
@@ -19,20 +28,20 @@ SET time_zone = "+00:00";
 
 CREATE TABLE IF NOT EXISTS `marker` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
-  `name` varchar(100) NOT NULL,
-  `public` tinyint(1) NOT NULL,
-  `lat` float NOT NULL,
-  `lng` float NOT NULL,
+  `name` varchar(30) COLLATE utf8_bin NOT NULL,
+  `public` tinyint(4) NOT NULL,
+  `lat` varchar(30) COLLATE utf8_bin NOT NULL,
+  `lng` varchar(30) COLLATE utf8_bin NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=3 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_bin AUTO_INCREMENT=6 ;
 
 --
 -- Daten für Tabelle `marker`
 --
 
 INSERT INTO `marker` (`id`, `name`, `public`, `lat`, `lng`) VALUES
-(1, 'test1', 0, 49.4444, 11.8472),
-(2, 'test2', 1, 49.4447, 11.8478);
+(4, 'Amberg Test 1 Bike', 0, '47.44032', '11.863344999999999'),
+(5, 'Surf Platz Amberg', 1, '49.44032', '11.863344999999999');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
